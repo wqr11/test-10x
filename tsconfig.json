@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "es2020",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "noImplicitAny": true,
+    "strict": true
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["./**/node_modules/*"]
+}
