@@ -1,0 +1,13 @@
+# Тестовое задание - Кондратьев Дмитрий Олегович
+#### Моё резюме: https://kazan.hh.ru/resume/e5f933f2ff0d7ea3370039ed1f663175394c6f
+- Почта: dimakond520@gmail.com
+- Телефон: +79379948305
+- Telegram - https://t.me/xpand3xxwqr1
+
+# 🚀 Билд проекта
+```bash
+git clone https://github.com/wqr11/test-10x.git &&\
+cd text-10x &&\
+npm install && npm run build
+```
+Билд собирается в директории dist/
